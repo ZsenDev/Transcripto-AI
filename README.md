@@ -18,3 +18,10 @@
 - Transcription & summarization processing
 - Store results & files securely
 - API endpoints for frontend consumption
+
+## Dashboard
+![Dashboard Overview](Images/TranscriptoAI%201.jpeg)
+
+![Upload UI](Images/TranscriptoAI%202.jpeg)
+
+![Summary View](Images/TranscriptoAI%203.jpeg)
